@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/kavyapatel-10/DSA/tree/master/0001-two-sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kavyapatel-10/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kavyapatel-10/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/kavyapatel-10/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
