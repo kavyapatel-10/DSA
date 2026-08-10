@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/kavyapatel-10/DSA/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavyapatel-10/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kavyapatel-10/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0136-single-number](https://github.com/kavyapatel-10/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/kavyapatel-10/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kavyapatel-10/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kavyapatel-10/DSA/tree/master/0485-max-consecutive-ones) |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/kavyapatel-10/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/kavyapatel-10/DSA/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
