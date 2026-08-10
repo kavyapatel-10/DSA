@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/kavyapatel-10/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/kavyapatel-10/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kavyapatel-10/DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/kavyapatel-10/DSA/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kavyapatel-10/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kavyapatel-10/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
