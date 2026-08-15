@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kavyapatel-10/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kavyapatel-10/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kavyapatel-10/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kavyapatel-10/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kavyapatel-10/DSA/tree/master/0136-single-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kavyapatel-10/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Quicksort
 |  |
 | ------- |
