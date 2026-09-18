@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/kavyapatel-10/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kavyapatel-10/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/kavyapatel-10/DSA/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/kavyapatel-10/DSA/tree/master/0704-binary-search) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/kavyapatel-10/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kavyapatel-10/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kavyapatel-10/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/kavyapatel-10/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/kavyapatel-10/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/kavyapatel-10/DSA/tree/master/0704-binary-search) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/kavyapatel-10/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Greedy
 |  |
