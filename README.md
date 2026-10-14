@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kavyapatel-10/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/kavyapatel-10/DSA/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/kavyapatel-10/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kavyapatel-10/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/kavyapatel-10/DSA/tree/master/0169-majority-element) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/kavyapatel-10/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/kavyapatel-10/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kavyapatel-10/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/kavyapatel-10/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/kavyapatel-10/DSA/tree/master/0075-sort-colors) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kavyapatel-10/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/kavyapatel-10/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kavyapatel-10/DSA/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/kavyapatel-10/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/kavyapatel-10/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/kavyapatel-10/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/kavyapatel-10/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kavyapatel-10/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kavyapatel-10/DSA/tree/master/0328-odd-even-linked-list) |
