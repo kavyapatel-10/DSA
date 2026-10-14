@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/kavyapatel-10/DSA/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/kavyapatel-10/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/kavyapatel-10/DSA/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/kavyapatel-10/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kavyapatel-10/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Linked List
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/kavyapatel-10/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/kavyapatel-10/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/kavyapatel-10/DSA/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/kavyapatel-10/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
