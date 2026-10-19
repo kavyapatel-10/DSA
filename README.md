@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kavyapatel-10/DSA/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/kavyapatel-10/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/kavyapatel-10/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/kavyapatel-10/DSA/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/kavyapatel-10/DSA/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/kavyapatel-10/DSA/tree/master/0231-power-of-two) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/kavyapatel-10/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Quicksort
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kavyapatel-10/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/kavyapatel-10/DSA/tree/master/0231-power-of-two) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
